@@ -1,7 +1,7 @@
 
 <a><img align="right" z width="50%" alt="GIF" src="https://cdn.jsdelivr.net/gh/vanhiupun/pic@1.0/img/2016-05-15_iOd_ij.gif" /></a>
 <a><img width="400" src="https://github-readme-stats.vercel.app/api?username=vanhiupun&show_icons=true&bg_color=3a3c3b&text_color=FFFFFF&title_color=FFFFFF&include_all_commits=true" /></a>
-
+11
 - ![Static Badge](https://img.shields.io/badge/Javascript-3a3c3b?style=flat-square&logo=Javascript&labelColor=3a3c3b)
 ![Static Badge](https://img.shields.io/badge/TypeScript-3a3c3b?style=flat-square&logo=TypeScript&labelColor=3a3c3b)
 ![Static Badge](https://img.shields.io/badge/HTML5-3a3c3b?style=flat-square&logo=html5&labelColor=3a3c3b)
