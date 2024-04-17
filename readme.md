@@ -21,5 +21,5 @@
 ![Static Badge](https://img.shields.io/badge/Markdown-3a3c3b?style=flat-square&logo=markdown&labelColor=3a3c3b)
 
 
-- :memo: [科学上网/奈飞观看/流媒体机场分享](https://theovan.wiki)｜[SMS海外接码平台](https://sms-activate.org/?ref=8170513)
+- :memo: [科学上网/奈飞观看/流媒体机场分享](https://theovan.cn)｜[SMS海外接码平台](https://sms-activate.org/?ref=8170513)
 - :pushpin:[一元机场](https://xn--4gq62f52gdss.ink/#/register?code=tFcXfJEu)｜[FlyingBird](https://fbaff02.flyb-aff01.com/auth/register?code=RZP3)｜[Bridge the Wise](https://patriot.ninja/aff.php?aff=1471)｜[蜜糖商店](https://metshop.cn?referrerUserNo=MTU51076)｜[奈飞小铺](https://ihezu.love/UKTer6)｜[银河录像局](https://nf.video/kaIuE)
