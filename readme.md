@@ -2,7 +2,7 @@
 ```
 吾志所向，一往无前。
 ```
-<a><img align="right" z width="50%" alt="GIF" src="https://cdn.jsdelivr.net/gh/vanhiupun/pic@1.0/img/2016-05-15_iOd_ij.gif" /></a>
+<a><img align="right" z width="50%" alt="GIF" src="https://m.theovan.cn/img/2016-05-15_iOd_ij.gif" /></a>
 <a><img width="400" src="https://github-readme-stats.vercel.app/api?username=Theo-messi&show_icons=true&" /></a>
 
 - ![Static Badge](https://img.shields.io/badge/Javascript-3a3c3b?style=flat-square&logo=Javascript&labelColor=3a3c3b)
