@@ -2,8 +2,8 @@
 ```
 吾志所向，一往无前。
 ```
-<a><img align="right" z width="50%" alt="GIF" src="https://m.theovan.cn/img/2016-05-15_iOd_ij.gif" /></a>
-<a><img width="400" src="https://github-readme-stats.vercel.app/api?username=Theo-messi&show_icons=true&" /></a>
+<!-- <a><img align="right" z width="50%" alt="GIF" src="https://m.theovan.cn/img/2016-05-15_iOd_ij.gif" /></a> -->
+<a><img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Theo-messi&show_icons=true&" /></a>
 
 - ![Static Badge](https://img.shields.io/badge/Javascript-3a3c3b?style=flat-square&logo=Javascript&labelColor=3a3c3b)
 ![Static Badge](https://img.shields.io/badge/TypeScript-3a3c3b?style=flat-square&logo=TypeScript&labelColor=3a3c3b)
@@ -23,3 +23,11 @@
 
 - :memo: [科学上网/奈飞观看/流媒体机场分享](https://theovan.cn)｜[SMS海外接码平台](https://sms-activate.org/?ref=8170513)｜[阿里云盘资源分享](https://share.theovan.cn/)
 - :pushpin:[一元机场](https://xn--4gq62f52gdss.ink/#/register?code=tFcXfJEu)｜[FlyingBird](https://fbinv01.fbaff.cc/auth/register?code=RZP3)｜[Bridge the Wise](https://patriot.ninja/aff.php?aff=1471)｜[蜜糖商店](https://metshop.cn?referrerUserNo=MTU51076)｜[奈飞小铺](https://ihezu.love/UKTer6)｜[银河录像局](https://nf.video/kaIuE)
+
+## 赞助
+
+[![Alipay](https://img.shields.io/badge/Alipay-3a3c3b?style=flat-square&logo=Alipay&labelColor=3a3c3b)](https://m.theovan.cn/docs/202405201752089.jpg)
+[![Wechat](https://img.shields.io/badge/Wechat-3a3c3b?style=flat-square&logo=Wechat&labelColor=3a3c3b)](https://m.theovan.cn/docs/202405201752087.jpg)
+[![github](https://img.shields.io/badge/Github-Sponsors-3a3c3b?style=flat-square&logo=githubsponsors&labelColor=3a3c3b)](https://github.com/sponsors/Theo-messi)
+
+<img width="360" src="https://m.theovan.cn/docs/202405201759098.jpg" alt='Sponsors'></a>
